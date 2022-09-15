@@ -1,0 +1,10 @@
+package org.fundacionview.javaspring.inventory.app;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InventoryApp {
+    public static void main(String[] args) {
+
+    }
+}
